@@ -53,3 +53,7 @@ you can't reserve or book the same table number for the same date twice
 
 ![Screenshot 2023-11-13 011221](https://github.com/Kokata23/Python-table-manager/assets/123099517/4bb98a80-c89e-4e55-bfde-a684eb1d57dd)
 
+but you can have the same table reserved, just for different dates
+
+
+
