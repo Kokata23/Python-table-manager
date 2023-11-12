@@ -1,2 +1,3 @@
 # Python table manager
  Python program meant for coffes\restaurants organization
+ Its made using matrixes mainly and its my first bigger project made by myself only. It has many funtionalities, my task fist was creating a program that helps you manage how many tables does your coffe has and wheter they are free or taken, but later on I decidet to go a little deeper. I made functionality for booking a table for today, working with real time and date, and another one, that lets you reserve tables for future dates like tommorow or noext week, basicly whenever you want. Both your reservations and bookings are collected in different list, and when the date is todays date, the table automaticly becomes booked.
