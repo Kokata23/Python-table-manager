@@ -33,6 +33,14 @@ That were exactly my toughts befor deciding dive a little deeper.As you can see 
 As you can see tabkle 23 is booked, not free or taken
 
 The next method lets you reserve tables for future dates like tommorow or noext week, basicly whenever you want.
+![Screenshot 2023-11-13 004916](https://github.com/Kokata23/Python-table-manager/assets/123099517/06f05454-5091-4134-be0f-24dbb27fe22d)
+
+As you can see table status is free because we are reserving for tommorow, the date I have run those tests is 11/13/2023 its reserved for 11/14/2023.....the table is free for usage for today, you can book it take it or do whataver you want with it
+
+Both your reservations and bookings are collected in different list
 
 
-Both your reservations and bookings are collected in different list, and when the date is todays date, the table automaticly becomes booked.
+
+
+
+ and when the date is todays date, the table automaticly becomes booked.
