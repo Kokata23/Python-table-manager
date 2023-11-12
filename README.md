@@ -55,5 +55,14 @@ you can't reserve or book the same table number for the same date twice
 
 but you can have the same table reserved, just for different dates
 
+![Screenshot 2023-11-13 011713](https://github.com/Kokata23/Python-table-manager/assets/123099517/d10b2ae0-b92a-4576-99f0-e0add773015e)
+
+Removing a booked table is easy, 
+
+you just type the table you want to be removed
+
+
+In the instructions is told that you can remove an reservation by entering '-' and then the table number, but what happens when there are more than one table with that number
+
 
 
