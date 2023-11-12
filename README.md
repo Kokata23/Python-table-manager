@@ -7,7 +7,7 @@
 
 
  
- ![Screenshot 2023-11-12 175200](https://github.com/Kokata23/Python-table-manager/assets/123099517/3b469d1a-70f0-4729-862d-2576b34b2fa4)
+![Screenshot 2023-11-12 175200](https://github.com/Kokata23/Python-table-manager/assets/123099517/90fe4747-bdbb-4097-bc56-e7c75f40de32)
 
 
 
