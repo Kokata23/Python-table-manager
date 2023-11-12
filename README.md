@@ -2,7 +2,7 @@
  Python program meant for coffes\restaurants organization
  Its made using matrixes mainly and its my first bigger project made by myself only. It has many funtionalities, my task fist was creating a program that helps you manage how many tables does your coffe has and wheter they are free or taken
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 
 
@@ -12,7 +12,7 @@
 
 
 
- //////////////////////////////////////////////////////////////
+\ \ \ \ \ \ \ \ \ \ \\ \ \ \ \ \ \ \ \ \ \\ \ \ \ \ \ \ \ \ \ \\ \ \ \ \ \ \ \ \ \ \\ \ \ \ \ \ \ \ \ \ \\ \ \ \ \ \ \ \ \ \ \
 
 
 
