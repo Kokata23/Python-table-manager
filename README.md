@@ -37,12 +37,19 @@ The next method lets you reserve tables for future dates like tommorow or noext 
 
  table status stays free because we are reserving for tommorow, the date I have run those tests is 11/13/2023 its reserved for 11/14/2023.....the table is free for usage for today, you can book it take it or do whataver you want with it
 
- 
+![Screenshot 2023-11-13 010047](https://github.com/Kokata23/Python-table-manager/assets/123099517/79e145f5-85af-40b1-8845-438d5b28cb7b)
+
+Now we tooke table number 20, which is reserved for tommorow, You just have a massage that alerts you for your reservation
 
 Both your reservations and bookings are collected in different list
 
 ![Screenshot 2023-11-13 005346](https://github.com/Kokata23/Python-table-manager/assets/123099517/0748f2e3-4ebf-4156-8fce-92b0ec019d25)
 
 when the date is todays date, the table automaticly becomes booked, gets deleted from reserved list, and is added to the booked list.
+
+
+
+you can't reserve or book the same table number for the same date twice
+
 
 
