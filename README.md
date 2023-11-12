@@ -64,5 +64,9 @@ you just type the table you want to be removed
 
 In the instructions is told that you can remove an reservation by entering '-' and then the table number, but what happens when there are more than one table with that number
 
+![Screenshot 2023-11-13 013228](https://github.com/Kokata23/Python-table-manager/assets/123099517/8e924005-6e3c-43e3-b62d-752d7fe63f1c)
+
+you need to specify what table you date you want to remove the table on, and if you have done everything correctly it removes the table
+
 
 
