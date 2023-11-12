@@ -31,4 +31,8 @@ That were exactly my toughts befor deciding dive a little deeper.As you can see 
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 As you can see tabkle 23 is booked, not free or taken
-Another one, that lets you reserve tables for future dates like tommorow or noext week, basicly whenever you want. Both your reservations and bookings are collected in different list, and when the date is todays date, the table automaticly becomes booked.
+
+The next method lets you reserve tables for future dates like tommorow or noext week, basicly whenever you want.
+
+
+Both your reservations and bookings are collected in different list, and when the date is todays date, the table automaticly becomes booked.
