@@ -24,7 +24,8 @@ That were exactly my toughts befor deciding dive a little deeper.As you can see 
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 
-![Screenshot 2023-11-12 180834](https://github.com/Kokata23/Python-table-manager/assets/123099517/a1d50e77-d375-4d83-be9a-2d1784eb647d)
+![Screenshot 2023-11-12 180834](https://github.com/Kokata23/Python-table-manager/assets/123099517/bdbad4d9-c154-48af-9479-91d80a4ede0c)
+
 
 
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
