@@ -41,7 +41,7 @@ The next method lets you reserve tables for future dates like tommorow or noext 
 
 Both your reservations and bookings are collected in different list
 
-![Screenshot 2023-11-13 004916](https://github.com/Kokata23/Python-table-manager/assets/123099517/2ba311c1-7d5f-4ce2-9358-073611e2e4be)
+![Screenshot 2023-11-13 005346](https://github.com/Kokata23/Python-table-manager/assets/123099517/0748f2e3-4ebf-4156-8fce-92b0ec019d25)
 
 when the date is todays date, the table automaticly becomes booked, gets deleted from reserved list, and is added to the booked list.
 
