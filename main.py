@@ -337,7 +337,7 @@ while True:
         if booked_tables_list:
             print()
             for t in booked_tables_list:
-                print(f"{t[0][0]}-{t[0][1]}-{t[1]}-{t[2]}\n"
+                print(f"Table {t[0][0]} is booked for {t[2]} by {t[1]}\n"
                       f"{'- '* 20}")
             print()
         else:
@@ -560,7 +560,12 @@ while True:
 
         if table_for_booked_list:
             matrix = booking_a_table(matrix, table_to_book)
-            booked_tables_list.append(table_for_booked_list)
+            if booked_tables_list:
+                check_for_table = [False if t[0][0] == table_for_booked_list[0][0] else True for t in booked_tables_list][0]
+                if check_for_table:
+                    booked_tables_list.append(table_for_booked_list)
+            else:
+                booked_tables_list.append(table_for_booked_list)
 # ______________________________________________________________________________________________________________________________
 
 
